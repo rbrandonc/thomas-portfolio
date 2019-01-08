@@ -16,8 +16,7 @@ const IndexPage = ({ data }) => {
   <Layout>
     <SEO title="Home" keywords={[`thomas`, `rushing`, `writing`]} />
 
-    <Sidebar></Sidebar>
-   {posts}
+    Welcome to Thomas's website. It's not quite done yet :)
   </Layout>
 )}
 
